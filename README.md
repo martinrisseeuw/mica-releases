@@ -16,3 +16,7 @@ Updates preserve the browser profile, spaces, pins, extensions, and website data
 
 This repository distributes release installers and the signed Sparkle update
 feed. It does not contain the browser's source code or any browser profile data.
+
+[Mica source code, issues, and contributions](https://github.com/martinrisseeuw/mica)
+are available under the MIT license, with third-party components retaining their
+own licenses.
